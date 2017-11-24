@@ -10,3 +10,5 @@ MFRC522-PA 模块
 链接如下：
 item.taobao.com/item.htm?id=552002236051
 
+串口助手显示：
+https://github.com/arm8686/MFRC522_51_Demo/blob/master/pic/MFRC522_%E4%B8%B2%E5%8F%A3%E5%9B%9E%E4%BC%A0%E6%95%B0%E6%8D%AE.png
