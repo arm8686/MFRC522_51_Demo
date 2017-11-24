@@ -1,0 +1,3 @@
+# MFRC522_51_Demo
+MFRC522 with 51 MCUs, (e.g. STC89, STC12 )
+
