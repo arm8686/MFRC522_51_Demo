@@ -17,4 +17,4 @@ item.taobao.com/item.htm?id=552002236051
 
 ´®¿ÚÖúÊÖÏÔÊ¾£º
 
-!(https://github.com/arm8686/MFRC522_51_Demo/blob/master/pic/MFRC522_COM.png)
+![image](https://github.com/arm8686/MFRC522_51_Demo/blob/master/pic/MFRC522_COM.png)
